@@ -8,7 +8,7 @@
 		"cost": 40,
 		"specialistSlots": {"Admiral": 1},
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+10]% Production when constructing [Civilian] units [in this city]"],
+			    "[+10]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Astronomy"
 	},
 	{
@@ -20,7 +20,7 @@
 		"cost": 80,
 		"specialistSlots": {"Admiral": 1},
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+30]% Production when constructing [Civilian] units [in this city]"],
+			    "[+30]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Astronomy"
 	},
 	{
@@ -30,7 +30,7 @@
 		"maintenance": 1,
 		"cost": 80,
 		"uniques": ["[+4 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]",
-			    "[+1 Gold] from [Copper] tiles [in this city]", "[+2]% [Gold] [in all cities]"],
+			    "[+1 Gold] from [Copper] tiles [in this city]", "[+2]% [Gold] [in all cities]", "Destroyed when the city is captured"],
 		"requiredTech": "Currency"
 	},
 ]
