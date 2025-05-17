@@ -8,7 +8,7 @@
 		"cost": 40,
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
 			    "[+10]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Astronomy"
+		"requiredTech": "Currency"
 	},
 	{
 		"name": "Colony Shares",
