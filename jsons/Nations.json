@@ -1,38 +1,35 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+{
+		"name": "Spainish Empire", 
+		"leaderName": "Ferdinand VII", 
+		"adjective": ["Spanish"], 
+		"startBias": ["Coast"],
+		"personality": "Ferdinand VII",
+		"preferredVictoryType": "Cultural",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"startIntroPart1": "Ferdinand VII, once a captive, now restored to the throne, Spain watches as you reclaim its soul from revolution.",
+		"startIntroPart2": "Will you crush liberalism and restore divine order to your kingdom?",
+		"declaringWar": "Spain bows to no tyrant—prepare yourself!",
+		"attacked": "The true king returns fire with fire!",
+		"defeated": "My crown... stolen by chaos once more...",
+		"introduction": "I am Ferdinand VII, rightful King of Spain. Speak swiftly—loyalty is in short supply.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"neutralHello": "Spain endures—though trust is scarce.",
+		"hateHello": "Traitors and fools shall find no quarter here.",
+
+		"tradeRequest": "Speak your offer, and mind your tone in our court.",
+		
+		"outerColor": [240, 240, 240],
+		"innerColor": [200, 0, 6],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Mission System",
+		"uniques": ["[+2] Movement <for [Water] units>", "[+1 Faith, +1 Production] from [Coast] tiles [in all cities]", "Starts with [Exploration] adopted",
+			    "Allied City-States provide [Faith] equal to [+150]% of what they produce for themselves <in [capital] cities>"],
+		
+		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
+			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
+			"Jaén","Palma","Badajoz","Tarragona","Gijón","Ciudad Real","Guadalajara","Cáceres","Lugo","Segovia","Teruel","Vigo","Elche","Jerez"],
+		"spyNames": ["Téllez-Girón","Alba","de Borbón","Fadrique de Toledo","Vasco Núñez de Balboa","Carlos V","Enrique de Guzmán","Juan de Austria","Ponce de León","Cervantes"]
+		
 	}
 ]
