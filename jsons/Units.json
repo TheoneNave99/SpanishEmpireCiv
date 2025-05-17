@@ -5,7 +5,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Spainish Empire",
 		"movement": 4,
-		"strength": 20,
+		"strength": 21,
 		"cost": 135,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
