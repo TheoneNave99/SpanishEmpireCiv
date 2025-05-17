@@ -1,25 +1,34 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Expedition Shares",
+		"replaces": "Market",
+		"uniqueTo": "Spanish Empire",
+		"happiness": 1,
+		"maintenance": 1,
+		"cost": 40,
+		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
+			    "[+10]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Currency"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Voyage Shares",
+		"replaces": "Bank",
+		"uniqueTo": "Spanish Empire",
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"maintenance": 1,
+		"cost": 80,
+		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
+			    "[+30]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Royal Mint",
+		"replaces": "Mint",
+		"uniqueTo": "Spanish Empire",
+		"maintenance": 1,
+		"cost": 80,
+		"uniques": ["[+4 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]",
+			    "[+1 Gold] from [Copper] tiles [in this city]", "[+2]% [Gold] [in all cities]", "Destroyed when the city is captured"],
+		"requiredTech": "Currency"
+	},
 ]
