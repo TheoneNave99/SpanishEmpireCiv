@@ -7,18 +7,18 @@
 		"maintenance": 1,
 		"cost": 50,
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+15]% Production when constructing [Settler] units [in this city]", "[+25]% Production when constructing [Worker] units [in this city]", "Destroyed when the city is captured"],
+			    "[+25]% Production when constructing [Settler] units [in this city]", "[+25]% Production when constructing [Worker] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Voyage",
+		"name": "Colony Share",
 		"replaces": "Bank",
 		"uniqueTo": "Spainish Empire",
 		"happiness": 2,
 		"maintenance": 2,
 		"cost": 100,
-		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+35]% Production when constructing [Settler] units [in this city]", "[+50]% Production when constructing [Worker] units [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+2]% [Gold] [in all cities]", "[+1 Production] from [Forest] tiles [in this city]",
+			    "[+25]% Production when constructing [Settler] units [in this city]", "[+25]% Production when constructing [Worker] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Astronomy"
 	},
 	{
