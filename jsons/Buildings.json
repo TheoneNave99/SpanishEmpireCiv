@@ -1,24 +1,24 @@
 [
 	{
-		"name": "Expedition Shares",
+		"name": "Expedition",
 		"replaces": "Market",
 		"uniqueTo": "Spanish Empire",
 		"happiness": 1,
 		"maintenance": 1,
 		"cost": 40,
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+10]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
+			    "[+10]% Production when constructing [Settler] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Voyage Shares",
+		"name": "Voyage",
 		"replaces": "Bank",
 		"uniqueTo": "Spanish Empire",
 		"happiness": 2,
 		"maintenance": 1,
 		"cost": 80,
 		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
-			    "[+30]% Production when constructing [Civilian] units [in this city]", "Destroyed when the city is captured"],
+			    "[+30]% Production when constructing [Settler] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Astronomy"
 	},
 	{
