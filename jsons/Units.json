@@ -13,7 +13,6 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>",
 			    "[+2] Sight", "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
 	},
 	{
@@ -41,7 +40,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Destroyer",
 		"uniques": ["[+1] Sight"],
-		"promotions": ["Coastal Raider I", "Supply", "[Privateer] ability"],
+		"promotions": ["Coastal Raider I", "Supply"],
 		"attackSound": "cannon"
 	},
 	{
@@ -56,7 +55,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["Formation I", "Shock I"],
+		"promotions": ["Shock I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
