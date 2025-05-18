@@ -24,7 +24,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mission System",
 		"uniques": ["[+2] Movement <for [Water] units>", "[+1 Faith, +1 Production] from [Coast] tiles [in all cities]", "Starts with [Exploration] adopted",
-			    "Allied City-States provide [Faith] equal to [+150]% of what they produce for themselves <in [capital] cities>"],
+			    "Allied City-States provide [Faith] equal to [+100]% of what they produce for themselves <in [capital] cities>"],
 		
 		"cities": ["Madrid","Barcelona","Seville","Valencia","Zaragoza","Granada","Toledo","Cádiz","Málaga","Bilbao","Salamanca","Valladolid","Burgos",
 			"Santiago de Compostela","Pamplona","Santander","Murcia","Alicante","La Coruña","León","Almería","Logroño","Oviedo","Cuenca","Huesca",
