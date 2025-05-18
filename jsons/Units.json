@@ -49,7 +49,7 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Spainish Empire",
 		"movement": 5,
-		"strength": 25,
+		"strength": 27,
 		"cost": 180,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
